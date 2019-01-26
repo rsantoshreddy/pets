@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link rel="stylesheet" href="pets.css" />
+  </head>
+  <body>
+    <div class="container">
+      <p>Filters</p>
+      <div id="filter">
+        <span>Age</span>
+        <select name="age" id="age">
+          <option value="Adult">Adult</option>
+          <option value="Baby">Baby</option>
+          <option value="Young">Young</option>
+          <option value="Senior">Senior</option>
+        </select>
+
+        <span>Gender</span>
+        <select name="gender" id="gender">
+          <option value="M">Male</option>
+          <option value="F">Female</option>
+        </select>
+        <button id="clear">Clear Filter</button>
+      </div>
+      <ul class="flex-container" id="pets"></ul>
+      <div id="details">Click on any pet</div>
+    </div>
+    <script src="pets.js"></script>
+    <!-- <script src="http://api.petfinder.com/shelter.getPets?key=4c44162d3dd8bdb52553149813248c4f&format=json&id=CA2477&callback=foo"></script> -->
+  </body>
+</html>

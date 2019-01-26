@@ -1,0 +1,1846 @@
+{
+  "@encoding": "iso-8859-1",
+  "@version": "1.0",
+  "petfinder": {
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "lastOffset": { "$t": "17" },
+    "pets": {
+      "pet": [
+        {
+          "options": {
+            "option": [
+              { "$t": "altered" },
+              { "$t": "hasShots" },
+              { "$t": "housetrained" },
+              { "$t": "noCats" }
+            ]
+          },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Adult" },
+          "size": { "$t": "M" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/1/?bust=1548295627&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/1/?bust=1548295627&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/1/?bust=1548295627&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/1/?bust=1548295627&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/1/?bust=1548295627&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/2/?bust=1548295642&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/2/?bust=1548295642&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/2/?bust=1548295642&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/2/?bust=1548295642&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/2/?bust=1548295642&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/3/?bust=1548295662&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/3/?bust=1548295662&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/3/?bust=1548295662&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/3/?bust=1548295662&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/42668772/3/?bust=1548295662&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "42668772" },
+          "shelterPetId": { "$t": "ps_84942343" },
+          "breeds": { "breed": [{ "$t": "Retriever" }, { "$t": "Shepherd" }] },
+          "name": { "$t": "Sarge" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "Sarge is a 5 year old Retriever Shepherd mix. He is medium sized and weighs about 34lbs. He is a super sweet dog who is very loving, amazing with kids and a cuddler. He is a loyal companion who is ready to explore the world around him. He loves hiking, camping, jogging, walking, but also enjoys napping and cuddling on the couch. Anywhere you are. Sarge is a very intelligent fella who picks up on commands easily once he is bonded with you. Great with other dogs. Cats unknown. \n\nSarge does have some separation anxiety, so because of that, he will be adopted out with his large metal kennel, at no extra cost. \n\nIf you'd like to give him a try at home for one week, just let us know. He'll come with his metal crate, food and supplies. No deposit required. \n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2018-09-04T20:51:50Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": {
+            "option": [{ "$t": "hasShots" }, { "$t": "housetrained" }]
+          },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Adult" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/1/?bust=1548295624&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/1/?bust=1548295624&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/1/?bust=1548295624&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/1/?bust=1548295624&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/1/?bust=1548295624&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/2/?bust=1548295640&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/2/?bust=1548295640&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/2/?bust=1548295640&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/2/?bust=1548295640&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/2/?bust=1548295640&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/3/?bust=1548295661&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/3/?bust=1548295661&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/3/?bust=1548295661&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/3/?bust=1548295661&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43422605/3/?bust=1548295661&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43422605" },
+          "shelterPetId": { "$t": "ps_72825575" },
+          "breeds": { "breed": [{ "$t": "Schnauzer" }, { "$t": "Maltese" }] },
+          "name": { "$t": "Zoey" },
+          "sex": { "$t": "F" },
+          "description": {
+            "$t": "Zoey and her friend Gidget were found as strays by a good samaritan who took them in after almost hitting them when they ran out into the street. These poor girls were so matted and dirty that they had to be shaved but we promise their hair is growing back and they will be beautiful!! Zoey is very outgoing, very payful and plays well with ll other dogs. She loves attention and likes to cuddle up next to her human friends. She is a smart girl and during her stray hold period she has already learned to go potty outside using the doggy door\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2018-12-01T00:55:48Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "L" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/1/?bust=1548295631&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/1/?bust=1548295631&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/1/?bust=1548295631&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/1/?bust=1548295631&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/1/?bust=1548295631&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/2/?bust=1548295648&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/2/?bust=1548295648&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/2/?bust=1548295648&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/2/?bust=1548295648&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/2/?bust=1548295648&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/3/?bust=1548295652&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/3/?bust=1548295652&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/3/?bust=1548295652&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/3/?bust=1548295652&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565990/3/?bust=1548295652&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43565990" },
+          "shelterPetId": { "$t": "ps_355771-91281" },
+          "breeds": {
+            "breed": [
+              { "$t": "Nova Scotia Duck Tolling Retriever" },
+              { "$t": "Akita" }
+            ]
+          },
+          "name": { "$t": "Blue" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nBlue is a 3 month old Akita/Mastiff (dad), and Nova Scotia Duck Tolling Retriever mix (mom) {with DNA Testing}. Blue is independent and front of the pack. Blue is currently being potty trained with puppy pads and is using them great, but being a puppy, he will need his new owner to have time and patience to potty train him. We think Blue will grow to be a Large/X-Lrg dog, with medium to long hair. As with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. Blue is great with other dogs, cats and kids. He is on a vaccine schedule and will have all sets of vaccines. He will also be Neuteted when age appropriate.\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2018-12-17T19:26:27Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "L" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/1/?bust=1548295638&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/1/?bust=1548295638&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/1/?bust=1548295638&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/1/?bust=1548295638&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/1/?bust=1548295638&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/2/?bust=1548244544&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/2/?bust=1548244544&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/2/?bust=1548244544&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/2/?bust=1548244544&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/2/?bust=1548244544&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/3/?bust=1548244556&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/3/?bust=1548244556&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/3/?bust=1548244556&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/3/?bust=1548244556&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565991/3/?bust=1548244556&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43565991" },
+          "shelterPetId": { "$t": "ps_16139681" },
+          "breeds": {
+            "breed": [
+              { "$t": "Nova Scotia Duck Tolling Retriever" },
+              { "$t": "Akita" }
+            ]
+          },
+          "name": { "$t": "Carson" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nCarson is a 3 month old Akita/Mastiff (dad), and Nova Scotia Duck Tolling Retriever mix (mom) {with DNA Testing}. Carson loves to cuddle and loves attention from people. He is currently being potty trained with puppy pads and is using them great, but being a puppy, he will need his new owner to have time and patience to potty train him. We think Carson will grow to be a Large/X-Lrg dog, with medium to long hair. As with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. Carson is great with other dogs, cats and kids. He is on a vaccine schedule and will have all sets of vaccines. He will also be Neuteted when age appropriate.\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2018-12-17T19:26:27Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "L" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/1/?bust=1548295636&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/1/?bust=1548295636&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/1/?bust=1548295636&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/1/?bust=1548295636&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/1/?bust=1548295636&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/2/?bust=1548295645&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/2/?bust=1548295645&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/2/?bust=1548295645&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/2/?bust=1548295645&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/2/?bust=1548295645&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/3/?bust=1548295658&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/3/?bust=1548295658&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/3/?bust=1548295658&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/3/?bust=1548295658&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43565992/3/?bust=1548295658&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43565992" },
+          "shelterPetId": { "$t": "ps_355774-91281" },
+          "breeds": {
+            "breed": [
+              { "$t": "Nova Scotia Duck Tolling Retriever" },
+              { "$t": "Akita" }
+            ]
+          },
+          "name": { "$t": "Sierra" },
+          "sex": { "$t": "F" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nSierra is a 3 month old Akita/Mastiff (dad), and Nova Scotia Duck Tolling Retriever mix (mom) {with DNA Testing}. Sierra is a happy pup that is very playful with other dogs. She is currently being potty trained with puppy pads and is using them great, but being a puppy, she will need her new owner to have time and patience to potty train her. We think Sierra will grow to be a Large/X-Lrg dog, with medium to long hair. As with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. Sierra is great with other dogs, cats and kids. She is on a vaccine schedule and will have all sets of vaccines. She will also be Spayed when age appropriate.\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2018-12-17T19:26:27Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": {
+            "option": [
+              { "$t": "altered" },
+              { "$t": "hasShots" },
+              { "$t": "housetrained" }
+            ]
+          },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Young" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/1/?bust=1548295630&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/1/?bust=1548295630&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/1/?bust=1548295630&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/1/?bust=1548295630&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/1/?bust=1548295630&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/2/?bust=1548295646&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/2/?bust=1548295646&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/2/?bust=1548295646&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/2/?bust=1548295646&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/2/?bust=1548295646&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/3/?bust=1548295659&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/3/?bust=1548295659&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/3/?bust=1548295659&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/3/?bust=1548295659&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43744135/3/?bust=1548295659&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43744135" },
+          "shelterPetId": { "$t": "ps_89971830" },
+          "breeds": { "breed": { "$t": "Poodle" } },
+          "name": { "$t": "Maxwell" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "Maxwell is a 2 year old Poodle who weighs 11lbs. He is super mellow and loves to go on car rides. Maxwell has a very sweet disposition and is a rescue favorite. He is a loving boy who loves to go on walks, does great with other dogs, cats and kids. He is crate trained. \n\nMaxwell was found as a stray and when owners were located, they admitted to abandoning him out in the streets one night because they didn't want him anymore. \n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "no" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-11T07:13:50Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Senior" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/1/?bust=1548295628&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/1/?bust=1548295628&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/1/?bust=1548295628&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/1/?bust=1548295628&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/1/?bust=1548295628&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/2/?bust=1548295638&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/2/?bust=1548295638&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/2/?bust=1548295638&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/2/?bust=1548295638&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/2/?bust=1548295638&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/3/?bust=1548295654&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/3/?bust=1548295654&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/3/?bust=1548295654&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/3/?bust=1548295654&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760590/3/?bust=1548295654&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43760590" },
+          "shelterPetId": { "$t": "ps_39647964" },
+          "breeds": { "breed": { "$t": "Yorkshire Terrier" } },
+          "name": { "$t": "Kikki" },
+          "sex": { "$t": "F" },
+          "description": {
+            "$t": "PLEASE READ ALL INFO BELOW BEFORE APPLYING:\n\nKikki and Paul are 8 year old Yorkshire Terriers. Kikki weighs 4.8lbs and Paul weighs 3lbs. These tiny babies are bonded and must be adopted together in their forever home. Kikki is very outgoing and playful. She loves being with people and getting loved on. She enjoys being a lap dog, but can still be shy. Paul is more reserved and timid. He doesn't mind sleeping on the couch next to you. He's calm, quiet, timid, shy and loves to nap. Both are very sweet, loving, happy and love to be shown love. Paul even dances when his food is on its way. Both are very tiny in size. Please understand and be researched on the special care that tiny dogs need (3 feeding times, keeping them safe around the home, cold weather, easily injured..etc). Kikki and Paul prefer a quiet and slow environment. They are great with other small dogs, cats and older kids that can respect their tiny size, not drop them, be mindful of where they are in the home before walking or sitting, and to not add to their fears. Kikki does talk and barks sometimes. Both are Not potty trained, but are doing good with pee pads. They have marked around the house. Both have hair and will need professional grooming and regular nail maintenance. Kikki and Paul came from a terrible hoarding situation and were severely neglected. They have probably never received any type of training or guidance. They will need an owner that is willing to give them lots of time, patience, give them space, a safe place to go to, understanding, lots of attention, work to gain their trust, and be able to provide future medical care, if needed. Both Kikki and Paul have bad knees due to age and breed. The vet doesn't think it needs medical attention at this time, but might need it in the future. They will need a dedicated owner to provide potty training and work on their fear and timidness. Kikki and Paul have had bloodwork done, dental cleanings and extractions, urinalysis, fecal analysis and are fully vetted. MHR has covered everything needed, so you don't have to. Kikki has no teeth, while Paul has a few. They eat great!\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "no" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-13T06:18:27Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Senior" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/1/?bust=1548295626&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/1/?bust=1548295626&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/1/?bust=1548295626&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/1/?bust=1548295626&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/1/?bust=1548295626&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/2/?bust=1548295649&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/2/?bust=1548295649&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/2/?bust=1548295649&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/2/?bust=1548295649&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/2/?bust=1548295649&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/3/?bust=1548295660&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/3/?bust=1548295660&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/3/?bust=1548295660&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/3/?bust=1548295660&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43760591/3/?bust=1548295660&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43760591" },
+          "shelterPetId": { "$t": "ps_44884817" },
+          "breeds": { "breed": { "$t": "Yorkshire Terrier" } },
+          "name": { "$t": "Paul" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "PLEASE READ ALL INFO BELOW BEFORE APPLYING:\n\nKikki and Paul are 8 year old Yorkshire Terriers. Kikki weighs 4.8lbs and Paul weighs 3lbs. These tiny babies are bonded and must be adopted together in their forever home. Kikki is very outgoing and playful. She loves being with people and getting loved on. She enjoys being a lap dog, but can still be shy. Paul is more reserved and timid. He doesn't mind sleeping on the couch next to you. He's calm, quiet, timid, shy and loves to nap. Both are very sweet, loving, happy and love to be shown love. Paul even dances when his food is on its way. Both are very tiny in size. Please understand and be researched on the special care that tiny dogs need (3 feeding times, keeping them safe around the home, cold weather, easily injured..etc). Kikki and Paul prefer a quiet and slow environment. They are great with other small dogs, cats and older kids that can respect their tiny size, not drop them, be mindful of where they are in the home before walking or sitting, and to not add to their fears. Kikki does talk and barks sometimes. Both are Not potty trained, but are doing good with pee pads. They have marked around the house. Both have hair and will need professional grooming and regular nail maintenance. Kikki and Paul came from a terrible hoarding situation and were severely neglected. They have probably never received any type of training or guidance. They will need an owner that is willing to give them lots of time, patience, give them space, a safe place to go to, understanding, lots of attention, work to gain their trust, and be able to provide future medical care, if needed. Both Kikki and Paul have bad knees due to age and breed. The vet doesn't think it needs medical attention at this time, but might need it in the future. They will need a dedicated owner to provide potty training and work on their fear and timidness. Kikki and Paul have had bloodwork done, dental cleanings and extractions, urinalysis, fecal analysis and are fully vetted. MHR has covered everything needed, so you don't have to. Kikki has no teeth, while Paul has a few. They eat great!\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "no" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-13T06:18:27Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/1/?bust=1548244534&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/1/?bust=1548244534&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/1/?bust=1548244534&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/1/?bust=1548244534&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/1/?bust=1548244534&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/2/?bust=1548295652&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/2/?bust=1548295652&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/2/?bust=1548295652&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/2/?bust=1548295652&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/2/?bust=1548295652&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/3/?bust=1548295667&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/3/?bust=1548295667&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/3/?bust=1548295667&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/3/?bust=1548295667&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780245/3/?bust=1548295667&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43780245" },
+          "shelterPetId": { "$t": "ps_370753-91281" },
+          "breeds": {
+            "breed": [{ "$t": "Dachshund" }, { "$t": "Miniature Pinscher" }]
+          },
+          "name": { "$t": "Curly" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nLil Larry, Curly and Moe are three precious little boys who are looking for their forever homes. They are Dachshund Miniature Pinscher Chihuahua mixes so they will stay small. This trio is about 9 weeks old. They are young puppies so the adopters will need to continue their potty training. \n\nCurly loves to play with toys and does great with other dogs, cats and kids. He is on a vaccine schedule and will have all sets of vaccines. He will also be Neutered when age appropriate.\n\nAs with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. \n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-15T22:39:35Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/1/?bust=1548295634&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/1/?bust=1548295634&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/1/?bust=1548295634&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/1/?bust=1548295634&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/1/?bust=1548295634&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/2/?bust=1548295651&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/2/?bust=1548295651&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/2/?bust=1548295651&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/2/?bust=1548295651&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/2/?bust=1548295651&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/3/?bust=1548295665&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/3/?bust=1548295665&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/3/?bust=1548295665&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/3/?bust=1548295665&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780246/3/?bust=1548295665&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43780246" },
+          "shelterPetId": { "$t": "ps_370752-91281" },
+          "breeds": {
+            "breed": [{ "$t": "Dachshund" }, { "$t": "Miniature Pinscher" }]
+          },
+          "name": { "$t": "Lil' Larry" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nLil Larry, Curly and Moe are three precious little boys who are looking for their forever homes. They are Dachshund Miniature Pincher Chihuahua mixes so they will stay small. This trio is about 9 weeks old. They are young puppies so the adopters will need to continue their potty training. \n\nLil' Larry is a sweet and loving boy. He loves to play, run around and play with other dogs. He does great with other dogs, cats and kids. He is on a vaccine schedule and will have all sets of vaccines. He will also be Neutered when age appropriate.\n\nAs with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. \n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-15T22:39:35Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/1/?bust=1548295627&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/1/?bust=1548295627&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/1/?bust=1548295627&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/1/?bust=1548295627&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/1/?bust=1548295627&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/2/?bust=1548295644&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/2/?bust=1548295644&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/2/?bust=1548295644&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/2/?bust=1548295644&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/2/?bust=1548295644&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/3/?bust=1548295664&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/3/?bust=1548295664&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/3/?bust=1548295664&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/3/?bust=1548295664&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43780247/3/?bust=1548295664&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43780247" },
+          "shelterPetId": { "$t": "ps_25665728" },
+          "breeds": {
+            "breed": [{ "$t": "Dachshund" }, { "$t": "Miniature Pinscher" }]
+          },
+          "name": { "$t": "Moe" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nLil Larry, Curly and Moe are three precious little boys who are looking for their forever homes. They are Dachshund Miniature Pinscher Chihuahua mixes so they will stay small. This trio is about 9 weeks old. They are young puppies so the adopters will need to continue their potty training. \n\nMoe is a happy pup that enjoys running around, having fun with playmates and does great with other dogs, cats and kids. He is on a vaccine schedule and will have all sets of vaccines. He will also be Neutered when age appropriate.\n\nAs with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. \n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-15T22:39:35Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "M" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/1/?bust=1548295633&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/1/?bust=1548295633&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/1/?bust=1548295633&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/1/?bust=1548295633&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/1/?bust=1548295633&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/2/?bust=1548295646&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/2/?bust=1548295646&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/2/?bust=1548295646&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/2/?bust=1548295646&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798572/2/?bust=1548295646&width=50&-t.jpg",
+                  "@id": "2"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43798572" },
+          "shelterPetId": { "$t": "ps_367335-91281" },
+          "breeds": { "breed": [{ "$t": "Maltese" }, { "$t": "Chihuahua" }] },
+          "name": { "$t": "Barron" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nBarron is a 2 month old Maltese/Poodle Chihuahua mix. He is very sweet, playful and curious. He is very vocal, so if you live in an apartment/condo setting, please be aware that he does talk a lot. He loves to play with toys, other dogs and cats. He would like a home with other dogs or a human that has time for him. He is being potty pad trained, but his new owner will need to potty train him. As with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. He is on a vaccine schedule and will have all sets of vaccines. He will also be Neutered when age appropriate.\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-17T18:38:15Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "M" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/1/?bust=1548295629&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/1/?bust=1548295629&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/1/?bust=1548295629&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/1/?bust=1548295629&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/1/?bust=1548295629&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/2/?bust=1548244550&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/2/?bust=1548244550&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/2/?bust=1548244550&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/2/?bust=1548244550&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/2/?bust=1548244550&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/3/?bust=1548295665&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/3/?bust=1548295665&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/3/?bust=1548295665&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/3/?bust=1548295665&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798573/3/?bust=1548295665&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43798573" },
+          "shelterPetId": { "$t": "ps_367333-91281" },
+          "breeds": { "breed": [{ "$t": "Maltese" }, { "$t": "Chihuahua" }] },
+          "name": { "$t": "Cooper" },
+          "sex": { "$t": "F" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nCooper is a 2 month old Maltese/Poodle Chihuahua mix. He is a very active, happy and fun boy. He is very vocal, so if you live in an apartment/condo setting, please be aware that he does talk a lot. He loves to play with toys, other dogs and cats. He would like a home with other dogs or a human that has time for him. He is being potty pad trained, but his new owner will need to potty train him. As with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. He is on a vaccine schedule and will have all sets of vaccines. He will also be Neutered when age appropriate.\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-17T18:38:15Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "M" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/1/?bust=1548295637&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/1/?bust=1548295637&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/1/?bust=1548295637&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/1/?bust=1548295637&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/1/?bust=1548295637&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/2/?bust=1548295647&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/2/?bust=1548295647&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/2/?bust=1548295647&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/2/?bust=1548295647&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/2/?bust=1548295647&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/3/?bust=1548295667&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/3/?bust=1548295667&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/3/?bust=1548295667&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/3/?bust=1548295667&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798574/3/?bust=1548295667&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43798574" },
+          "shelterPetId": { "$t": "ps_50637950" },
+          "breeds": { "breed": [{ "$t": "Maltese" }, { "$t": "Chihuahua" }] },
+          "name": { "$t": "Morning" },
+          "sex": { "$t": "F" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nMorning is a 2 month old Maltese/Poodle Chihuahua mix. She is a very loving and playful little girl. She loves to play with toys, other dogs and cats. She would like a home with other dogs or a human that has time for her. She is being potty pad trained, but her new owner will need to potty train her. As with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. She is on a vaccine schedule and will have all sets of vaccines. She will also be Spayed when age appropriate.\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-17T18:38:15Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": {
+            "option": [
+              { "$t": "altered" },
+              { "$t": "hasShots" },
+              { "$t": "housetrained" }
+            ]
+          },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Young" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/1/?bust=1548295635&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/1/?bust=1548295635&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/1/?bust=1548295635&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/1/?bust=1548295635&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/1/?bust=1548295635&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/2/?bust=1548295641&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/2/?bust=1548295641&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/2/?bust=1548295641&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/2/?bust=1548295641&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/2/?bust=1548295641&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/3/?bust=1548295663&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/3/?bust=1548295663&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/3/?bust=1548295663&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/3/?bust=1548295663&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798575/3/?bust=1548295663&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43798575" },
+          "shelterPetId": { "$t": "ps_89987004" },
+          "breeds": {
+            "breed": [{ "$t": "Dachshund" }, { "$t": "Yorkshire Terrier" }]
+          },
+          "name": { "$t": "Dutch" },
+          "sex": { "$t": "M" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nPLEASE READ: Remi is 1 year old. His Birthday is 2/20/17 and his only wish is to find his perfect home. His mom is a Chocolate/Golden Yorkie, dad is unknown (although our vet thinks he might be a long hair Dachshund). Remi has the most beautiful Hazel eyes! He is a very sweet, emotional and very loving boy. He is a total lap dog!! He loves to cuddle and is very content laying on you while you watch TV together. He's definitely a lover. Remi is great with other dogs, cats and kids of all ages! He grew up with senior dogs and two small kids. That being said, he is still a bit confused and scared from being surrendered.\n\nRemi does have a fear of men that we are working with him on. He will bark and cower, but he never bites. He needs an understanding home that will continue to work with his fear, be patient with him, be understanding, loving, gentle with him and be his companion. \n\nRemi is kennel trained. He is potty trained to go outside, use a doggy door, and pee pads. He sleeps in a kennel at bedtime. He's the perfect little gentleman. He's just broken hearted....\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-17T18:38:15Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": { "option": [{ "$t": "altered" }, { "$t": "hasShots" }] },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Baby" },
+          "size": { "$t": "M" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798576/1/?bust=1548295632&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798576/1/?bust=1548295632&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798576/1/?bust=1548295632&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798576/1/?bust=1548295632&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43798576/1/?bust=1548295632&width=50&-t.jpg",
+                  "@id": "1"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43798576" },
+          "shelterPetId": { "$t": "ps_367334-91281" },
+          "breeds": { "breed": [{ "$t": "Maltese" }, { "$t": "Chihuahua" }] },
+          "name": { "$t": "Stan" },
+          "sex": { "$t": "F" },
+          "description": {
+            "$t": "INSTRUCTIONS TO APPLY FOR ADOPTION ARE LISTED BELOW:\n\nStan is a 2 month old Maltese/Poodle Chihuahua mix. He is a very sweet, loving and happy boy. He is very vocal, so if you live in an apartment/condo setting, please be aware that he does talk a lot. He loves to play with toys, other dogs and cats. He would like a home with other dogs or a human that has time for him. He is being potty pad trained, but his new owner will need to potty train him. As with any puppy, they are teething, so you must be ok with a chewing/teething puppy and have the time and patience to provide obedience training, spend time supervising puppy around your home, and provide puppy with plenty of toys and chews. He is on a vaccine schedule and will have all sets of vaccines. He will also be Neutered when age appropriate.\n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "yes" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-17T18:38:15Z" },
+          "animal": { "$t": "Dog" }
+        },
+        {
+          "options": {
+            "option": [
+              { "$t": "altered" },
+              { "$t": "hasShots" },
+              { "$t": "housetrained" }
+            ]
+          },
+          "status": { "$t": "A" },
+          "contact": {
+            "phone": {},
+            "state": { "$t": "CA" },
+            "address2": {},
+            "email": { "$t": "mutthutrescue@gmail.com" },
+            "city": { "$t": "Huntington Park" },
+            "zip": { "$t": "90255" },
+            "fax": {},
+            "address1": {}
+          },
+          "age": { "$t": "Adult" },
+          "size": { "$t": "S" },
+          "media": {
+            "photos": {
+              "photo": [
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/1/?bust=1548295623&width=60&-pnt.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/1/?bust=1548295623&width=95&-fpm.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/1/?bust=1548295623&width=500&-x.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/1/?bust=1548295623&width=300&-pn.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/1/?bust=1548295623&width=50&-t.jpg",
+                  "@id": "1"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/2/?bust=1548295640&width=60&-pnt.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/2/?bust=1548295640&width=95&-fpm.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/2/?bust=1548295640&width=500&-x.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/2/?bust=1548295640&width=300&-pn.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/2/?bust=1548295640&width=50&-t.jpg",
+                  "@id": "2"
+                },
+                {
+                  "@size": "pnt",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/3/?bust=1548244562&width=60&-pnt.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "fpm",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/3/?bust=1548244562&width=95&-fpm.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "x",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/3/?bust=1548244562&width=500&-x.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "pn",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/3/?bust=1548244562&width=300&-pn.jpg",
+                  "@id": "3"
+                },
+                {
+                  "@size": "t",
+                  "$t": "http://photos.petfinder.com/photos/pets/43824430/3/?bust=1548244562&width=50&-t.jpg",
+                  "@id": "3"
+                }
+              ]
+            }
+          },
+          "id": { "$t": "43824430" },
+          "shelterPetId": { "$t": "ps_42028163" },
+          "breeds": { "breed": { "$t": "Chihuahua" } },
+          "name": { "$t": "Cookie" },
+          "sex": { "$t": "F" },
+          "description": {
+            "$t": "Cookie is a chihuahua was found roaming the streets of the city of Downey in poor condition. She was taken immediately to the vet where she was treated for broken hips. She is estimayed to be 2 years old and has now recovered quite nicely and isnlooking for a safe, loving place to call home. She has gotten along perfectly with dogs of all sizes and even children. Does well on a leash and is potty trained. \n\n*Dog is AVAILABLE. TO APPLY FOR ADOPTION OR IF YOU HAVE ADDITIONAL QUESTIONS THAT ARE NOT ADDRESSED IN THIS PROFILE, visit our website mutthutrescues.org Click on 'Adoptable Dogs', and click on the pups Picture to view Full Profile, Additional Information, Pictures and Stats. An application is required in order to apply for pup and set up a Meet & Greet if your application is chosen. Once we close our application intake period, we review all applications and choose the best one, out of many, to set up a meet. This process is lengthy, and may take a few days or a few weeks."
+          },
+          "mix": { "$t": "no" },
+          "shelterId": { "$t": "CA2477" },
+          "lastUpdate": { "$t": "2019-01-21T11:25:48Z" },
+          "animal": { "$t": "Dog" }
+        }
+      ]
+    },
+    "header": {
+      "timestamp": { "$t": "2019-01-24T05:34:58Z" },
+      "status": { "message": {}, "code": { "$t": "100" } },
+      "version": { "$t": "0.1" }
+    },
+    "@xsi:noNamespaceSchemaLocation": "http://api.petfinder.com/schemas/0.9/petfinder.xsd"
+  }
+}
